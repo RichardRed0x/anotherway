@@ -1,0 +1,2 @@
+# anotherway
+Decred: Another Way
